@@ -1399,7 +1399,7 @@
   resolved "https://registry.yarnpkg.com/@tinacms/styles/-/styles-0.1.0.tgz#f928d678001a3f44987dfec28d00f7e3c6e67003"
   integrity sha512-w2QWKKfQaovxdRqH0IxytoA6orlU66FnoTjqwYxPYV06llKZBISUOquOK8GyywMN6kpKlMdAKxennk5DFII5Ww==
 
-"@tinacms/teams@^0.1.1-alpha.0":
+"@tinacms/teams@^0.1.1-alpha.1":
   version "0.1.1-canary.2067"
   resolved "https://registry.yarnpkg.com/@tinacms/teams/-/teams-0.1.1-canary.2067.tgz#f71b1af42e087f1e46043035570ecb5eea5a0e2c"
   integrity sha512-tKpZc1VBrfFmaXI2M81Rb8NlOEV95oi0yvIi8hHC9+cww0xgQjdZEEz5e1+s4xI/N9tVTocxA7X/Ic8aEYhWBQ==
@@ -6432,12 +6432,12 @@ gatsby-tinacms-remark@^0.6.0:
     slash "^3.0.0"
     tinacms "^0.10.0"
 
-gatsby-tinacms-teams@0.1.0-alpha.0:
-  version "0.1.0-alpha.0"
-  resolved "https://registry.yarnpkg.com/gatsby-tinacms-teams/-/gatsby-tinacms-teams-0.1.0-alpha.0.tgz#ae7b76eb72fed4bb2ef70e1f60f86f6a5d79d735"
-  integrity sha512-yF3PqzGFdsEFsH4Pr46rmynsfPZW5Q2t7J0aaQG56vQBNePtYv5XoGOvzgnrJOzha46FBM8JJjGvBM2oe+gQfw==
+gatsby-tinacms-teams@0.1.0-alpha.1:
+  version "0.1.0-alpha.1"
+  resolved "https://registry.yarnpkg.com/gatsby-tinacms-teams/-/gatsby-tinacms-teams-0.1.0-alpha.1.tgz#988d73a5c29f6b75e81872269b64eeb36b771533"
+  integrity sha512-bQpwVbyFF4JpJaj8LVyVXOer60GOZImO8etGHixo/It7iP8b1r1RySXgZkU92rvvgsLV1l/TljO/GoxfbfV+Fg==
   dependencies:
-    "@tinacms/teams" "^0.1.1-alpha.0"
+    "@tinacms/teams" "^0.1.1-alpha.1"
     cookie-parser "^1.2.0"
     cors "^2.8.5"
     dotenv "^8.2.0"
